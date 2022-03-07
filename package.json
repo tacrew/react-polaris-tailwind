@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "generate:component": "hygen new fc"
   },
   "dependencies": {
     "next": "12.1.0",
@@ -33,6 +34,7 @@
     "eslint-config-next": "12.1.0",
     "eslint-plugin-storybook": "^0.5.7",
     "eslint-plugin-unused-imports": "^2.0.0",
+    "hygen": "^6.2.0",
     "postcss": "^8.4.8",
     "prettier": "^2.5.1",
     "prettier-plugin-tailwindcss": "^0.1.8",
