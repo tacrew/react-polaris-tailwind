@@ -82,7 +82,7 @@ React Polaris Tailwind is a component library [Polaris React](https://github.com
 - [ ] SkeletonDisplayText
 - [ ] SkeletonPage
 - [ ] SkeletonThumbnail
-- [ ] Spinner
+- [x] Spinner
 - [ ] Stack
 - [ ] Sticky
 - [ ] Subheading
@@ -98,5 +98,5 @@ React Polaris Tailwind is a component library [Polaris React](https://github.com
 - [ ] TrapFocus
 - [ ] Truncate
 - [ ] UnstyledLink
-- [ ] VisuallyHidden
+- [x] VisuallyHidden
 - [ ] VideoThumbnail
