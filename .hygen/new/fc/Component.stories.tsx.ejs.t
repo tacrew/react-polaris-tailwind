@@ -15,8 +15,7 @@ const meta: ComponentMeta<typeof <%= component_name %>> = {
 }
 export default meta
 
-export const Base: ComponentStoryObj<typeof <%= component_name %>> = {
-  name: '',
+export const Default: ComponentStoryObj<typeof <%= component_name %>> = {
 <% if (have_props) { -%>
   args: {}
 <% } -%>
